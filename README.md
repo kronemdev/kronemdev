@@ -38,7 +38,6 @@
 
 <br clear="both">
 
-!(https://githubusercontent.svg)
 
 
 
