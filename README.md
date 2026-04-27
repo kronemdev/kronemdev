@@ -1,14 +1,12 @@
-
+# Olá, eu sou o Nicolas! 👋
 
 <div align="center">
   <img src="https://demolab.com!+👋;Desenvolvedor+Web;Estudante+de+Tecnologia" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img height="200em" src="https://giphy.com" align="right" />
-</div>
-
-<br>
+<p align="right">
+  <img src="https://giphy.com" width="200px">
+</p>
 
 ### 🚀 Sobre mim
 Desenvolvedor em constante evolução, focado em aprender tecnologias modernas e criar soluções eficientes. Atualmente estou aprofundando meus conhecimentos no ecossistema web e em boas práticas de programação.
@@ -19,7 +17,7 @@ Desenvolvedor em constante evolução, focado em aprender tecnologias modernas e
 
 ---
 
-### 🤝 Connect with me!
+### 🤝 Conecte-se comigo!
 <p align="left">
 <a href="https://linkedin.com" target="_blank"><img src="https://shields.io"></a> 
 <a href="https://instagram.com" target="_blank"><img src="https://shields.io"></a>
