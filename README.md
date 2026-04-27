@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-![Snake animation](https://githubusercontent.com)
+![Snake animation](https://githubusercontent.yml)
 
 
 
