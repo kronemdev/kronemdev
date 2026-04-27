@@ -1,42 +1,40 @@
-# Olá, eu sou o Nicolas! 👋
+<h2 align="left"> Oi👋! Meu nome é Nicolas e sou um Desenvolvedor Full-Stack em formação.</h2>
+
+###
 
 <div align="center">
-  <img src="https://demolab.com!+👋;Desenvolvedor+Web;Estudante+de+Tecnologia" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kronemdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kronemdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p align="right">
-  <img src="https://giphy.com" width="200px">
-</p>
+###
 
-### 🚀 Sobre mim
-Desenvolvedor em constante evolução, focado em aprender tecnologias modernas e criar soluções eficientes. Atualmente estou aprofundando meus conhecimentos no ecossistema web e em boas práticas de programação.
+<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN5bTA2NGsyZzNuYnM2MTJ3cWFpaHczbHJiOGp5OG44a2NhNWk0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🎯 Focado em **HTML, CSS e JavaScript**.
-- ⚙️ Praticando lógica de programação e versionamento com **Git**.
-- 🌱 Buscando sempre novos desafios técnicos para evoluir.
+###
 
----
-
-### 🤝 Conecte-se comigo!
-<p align="left">
-<a href="https://linkedin.com" target="_blank"><img src="https://shields.io"></a> 
-<a href="https://instagram.com" target="_blank"><img src="https://shields.io"></a>
-<a href="mailto:kronemxd@gmail.com" target="_blank"><img src="https://shields.io"></a>
-</p>
-
-### 🛠 Minha Stack (Tecnologias)
-<p align="left">
-  <img src="https://skillicons.dev" />
-</p>
-
-### 📊 Estatísticas
-<p align="left">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
-</p>
-
-<br />
-
-<div align="center">
-  <img src="https://vercel.app" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/kronemdev/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo""/></a>
+  <a href="mailto:kronemxd@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /> 
+ </a>
+ <a href="https://www.linkedin.com/in/kronemdev/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a> 
+</div>
+
+###
+
+<br clear="both">
+
